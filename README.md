@@ -7,15 +7,7 @@
 <br>👅 Languages spoke : fluent ***French***, average ***English***
 
 ### Languages and Tools:
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/Jujufinote/my_images/html.png" alt="html" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+[![My Skills](https://skillicons.dev/icons?i=c,python,html)](https://skillicons.dev)
 
 <!---
 Jujufinote/Jujufinote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
