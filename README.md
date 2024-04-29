@@ -1,4 +1,4 @@
-## Hi ! I'm Jujufinote 👋😁
+# Hi ! I'm Jujufinote 👋😁
 <br>
 
 ### A passionate student at 42Perpignan
@@ -7,24 +7,26 @@
 <br>👅 Languages spoke : fluent ***French***, average ***English***
 <br>
 <br>
+<br>
 
-### Projects in progress :
+## Projects in progress :
 <!---
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
 <img alt="thumbnail of ft_printf" src="https://github.com/Jujufinote/my_images/blob/main/ft_printf/vignette.jpg" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/get_next_line/vignette.png" width="20%"/> 
 
 --->
-### Repositories in completion :
+## Repositories in completion :
 <p align="center">
-<img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette.png" width="20%"/> 
+<img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette.png" width="20%"/> 
 </p>
-### Finished projects :
+
+## Finished projects :
 - libft
 - ft_printf
 - get_next_line
 
-### Current learning :
+## Current learning :
 [![Current learning](https://skillicons.dev/icons?i=c,html,markdown,git)](https://skillicons.dev)
 
 <!---
