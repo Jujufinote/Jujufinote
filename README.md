@@ -9,7 +9,10 @@
 <br>
 <br>
 ### Projects in progress :
-
+<!---
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+--->
+<img alt="thumbnail of libft" src="https://
 
 ### My skills :
 [![My Skills](https://skillicons.dev/icons?i=c,python,html)](https://skillicons.dev)
