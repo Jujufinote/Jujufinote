@@ -3,8 +3,7 @@
 
 ### A passionate student at 42Perpignan
 
-🌱 I’m currently learning **langage C** more in depth, i've also learned a little **Python** and **HTML** at high school 
-<br>📫 How to reach me **julie.verdier.fiot@hotmail.com** 
+📫 How to reach me **julie.verdier.fiot@hotmail.com** 
 <br>👅 Languages spoke : fluent ***French***, average ***English***
 <br>
 <br>
@@ -17,7 +16,7 @@
 --->
 
 ### Current learning :
-[![Current learning](https://skillicons.dev/icons?i=c,python,html)](https://skillicons.dev)
+[![Current learning](https://skillicons.dev/icons?i=c,html,markdown,git)](https://skillicons.dev)
 
 <!---
 Jujufinote/Jujufinote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
