@@ -16,8 +16,8 @@
 <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette.jpg" width="20%"/>
 --->
 
-### Skills being learned :
-[![Skills being learned](https://skillicons.dev/icons?i=c,python,html)](https://skillicons.dev)
+### Current learning :
+[![Current learning](https://skillicons.dev/icons?i=c,python,html)](https://skillicons.dev)
 
 <!---
 Jujufinote/Jujufinote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
