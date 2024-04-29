@@ -10,21 +10,13 @@
 <br>
 
 ## Projects in progress :
-<!---
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-
-<img alt="thumbnail of ft_printf" src="https://github.com/Jujufinote/my_images/blob/main/ft_printf/vignette.jpg" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/get_next_line/vignette.png" width="20%"/> 
-
---->
-## Repositories in completion :
-<p align="center">
-<img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette2.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette2.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette2.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette2.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette2.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette2.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette2.png" width="20%"/> <img alt="thumbnail of libft" src="https://github.com/Jujufinote/my_images/blob/main/libft/vignette2.png" width="20%"/> 
-</p>
+<img alt="badge of get_next_line" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/get_next_linen.png"/> <img alt="badge of so_long" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/so_longn.png"/> <img alt="badge of born2beroot" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/born2berootn.png"/>
 
 ## Finished projects :
-- libft
-- ft_printf
-- get_next_line
+<img alt="badge of libft with bonus" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/libftm.png"/> <img alt="badge of ft_printf" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/ft_printfe.png"/>
+
+## Repositories in completion :
+<img alt="badge of libft with bonus" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/libftm.png"/> <img alt="badge of ft_printf" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/ft_printfe.png"/>
 
 ## Current learning :
 [![Current learning](https://skillicons.dev/icons?i=c,html,markdown,git)](https://skillicons.dev)
