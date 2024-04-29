@@ -13,12 +13,18 @@
 
 ## 🛸 Projects in progress :
 <img alt="badge of get_next_line" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/get_next_linen.png"/> <img alt="badge of so_long" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/so_longn.png"/> <img alt="badge of born2beroot" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/born2berootn.png"/>
+<br>
+<br>
 
 ## ✨ Finished projects :
 <img alt="badge of libft with bonus" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/libftm.png"/> <img alt="badge of ft_printf" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/ft_printfe.png"/>
+<br>
+<br>
 
 ## ✏️ Repositories in completion :
 <img alt="badge of libft with bonus" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/libftm.png"/> <img alt="badge of ft_printf" src="https://github.com/Jujufinote/42_badges_and_covers/blob/main/badges/ft_printfe.png"/>
+<br>
+<br>
 
 ## 🤓 Current learning :
 ### Languages :
