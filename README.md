@@ -2,7 +2,6 @@
 
 ### A student at 42Perpignan
 
-[![jverdier's 42 stats](https://badge42.coday.fr/api/v2/clvl7hc663667901p4cqxipfq5/stats?cursusId=21&coalitionId=318)](https://github.com/Coday-meric/badge42)
 <br>
 <br>📫 How to reach me **julie.verdier.fiot@hotmail.com** 
 <br>👅 Languages spoke : fluent ***French***, average ***English***
