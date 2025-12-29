@@ -1,5 +1,5 @@
 
-# Hi ! I'm Jujufinote 👋😁
+<h1> Hi ! I'm Jujufinote 👋😁</h1>
 
 ### A student at 42Perpignan
 <br>
@@ -7,7 +7,7 @@
 >
 > 📫 How to reach me **julie.verdier.fiot@hotmail.com**
 > 
-> 👅 Languages spoke : fluent ***French***, average ***English***
+> 🗣️​ Languages spoke : fluent ***French***, average ***English***
 >
 
 <br> <br>
