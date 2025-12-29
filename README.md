@@ -1,5 +1,5 @@
 
-<h1> Hi ! I'm Jujufinote 👋😁</h1>
+# Hi ! I'm Jujufinote 👋😁
 
 ### A student at 42Perpignan
 <br>
