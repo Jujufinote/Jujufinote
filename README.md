@@ -1,5 +1,5 @@
 
-# Hi ! I'm Jujufinote 👋😁
+# Hi ! I'm Julie 👋😁
 
 ### A student at 42Perpignan
 <br>
