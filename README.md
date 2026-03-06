@@ -41,7 +41,7 @@ Mail : julie.verdier.fiot@hotmail.com <br>
 <a href="https://github.com/Jujufinote/42_push_swap"><img alt="badge of push_swap" src="https://github.com/Jujufinote/42-project-badges/blob/main/badges/push_swapm.png" width="120" height="120"/></a>
 <a href="https://github.com/Jujufinote/42_pipex"><img alt="badge of pipex" src="https://github.com/Jujufinote/42-project-badges/blob/main/badges/pipexe.png" width="120" height="120"/></a>
 <a href="https://github.com/Jujufinote/42_Philosophers"><img alt="badge of philosophers" src="https://github.com/Jujufinote/42-project-badges/blob/main/badges/philosopherse.png" width="120" height="120"/></a>
-<a href="https://github.com/Jujufinote/42_minishell"><img alt="badge of minishell" src="https://github.com/Jujufinote/42-project-badges/blob/main/badges/minishellm.png" width="120" height="120"/></a>
+<a href="https://github.com/Jujufinote/42_minishell"><img alt="badge of minishell" src="https://github.com/Jujufinote/42-project-badges/blob/main/badges/minishelle.png" width="120" height="120"/></a>
 <br>
 
 **C++ :** <br>
