@@ -25,7 +25,7 @@ Mail : julie.verdier.fiot@hotmail.com <br>
 <br>
 
 **Client-Server :** <br>
-<a href="https://github.com/Jujufinote/42_ft_irc"><img alt="badge of ft_irc" src="https://github.com/Jujufinote/42-project-badges/blob/main/badges/ft_ircm.png" width="120" height="120"/></a>
+<a href="https://github.com/Jordan05072005/ft_irc"><img alt="badge of ft_irc" src="https://github.com/Jujufinote/42-project-badges/blob/main/badges/ft_ircm.png" width="120" height="120"/></a>
 <a href="https://github.com/Jujufinote/42_minitalk"><img alt="badge of minitalk" src="https://github.com/Jujufinote/42-project-badges/blob/main/badges/minitalkm.png" width="120" height="120"/></a>
 <br>
 
